@@ -1,2 +1,2 @@
-This repository include some coding rules that tranlated from other toturials or
+This repository includes some coding rules that translated from other toturials or
 blogs.
